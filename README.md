@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Parth Chokhra 👋
 
-<!--
-**parthplc/parthplc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Machine Learning Engineer specializing in **RAG Systems, LLMs, and Production ML** for pharmaceutical AI solutions.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Build production RAG pipelines with Azure OpenAI & LangChain
+- Develop agentic AI workflows using LangGraph
+- Engineer HIPAA-compliant ML systems for drug safety monitoring
+- Scale real-time recommendation engines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+**BlueAltair** - Senior ML Engineer | Pharma AI, RAG Systems, Compliance ML  
+**Trell** - Data Science Engineer | Recommendation Systems, NLP
+
+## 🛠️ Tech Stack
+**ML/AI:** PyTorch • Transformers • LangChain • LangGraph • BERT  
+**Cloud:** Azure ML • Azure OpenAI • Databricks • Docker  
+**Data:** PySpark • Kafka • Redis • Milvus
+
+## 🌟 Highlights
+- 40% reduction in manufacturing deviation investigation time with RAG
+- 99.7% accuracy HIPAA/PII de-identification pipeline (100K+ records/week)
+- 30% engagement boost with real-time recommendation system
+
+## 📝 Open Source & Writing
+- **QuestGen AI** - [Questgen](https://github.com/ramsrigouthamg/Questgen.ai) Core contributor (900+ ⭐)
+- Technical articles on [Medium](https://medium.com/@parthplc) about LLMs, RAG, and production ML
+
+## 📫 Connect
+[LinkedIn](https://linkedin.com/in/parthplc) • [Portfolio](https://parthplc.github.io) • [Email](mailto:parthplc@gmail.com)
