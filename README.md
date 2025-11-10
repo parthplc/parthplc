@@ -25,7 +25,7 @@ Senior Machine Learning Engineer with 4.5+ years building production ML systems 
 - **60% reduction** in drug safety reporting time (5→2 days) with BERT QA system
 
 ## 📝 Open Source & Writing
-- **QuestGen AI** - Core contributor to T5-based question generation (900+ ⭐)
+- **[QuestGen AI](https://github.com/ramsrigouthamg/Questgen.ai)** -  Core contributor to T5-based question generation (900+ ⭐)
 - Technical articles on [Medium](https://medium.com/@parthplc) covering LLM fine-tuning, RAG architectures, production ML
 
 ## 📫 Connect
