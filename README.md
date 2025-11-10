@@ -18,9 +18,10 @@ Senior Machine Learning Engineer specializing in **RAG Systems, LLMs, and Produc
 **Data:** PySpark • Kafka • Redis • Milvus
 
 ## 🌟 Highlights
+- 30% engagement boost with real-time content based recommendation system
 - 40% reduction in manufacturing deviation investigation time with RAG
 - 99.7% accuracy HIPAA/PII de-identification pipeline (100K+ records/week)
-- 30% engagement boost with real-time recommendation system
+
 
 ## 📝 Open Source & Writing
 - **QuestGen AI** - [Questgen](https://github.com/ramsrigouthamg/Questgen.ai) Core contributor (900+ ⭐)
